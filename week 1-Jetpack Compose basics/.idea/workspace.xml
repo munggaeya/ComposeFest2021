@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0b07eef-0130-4588-aada-cc66e719fefb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyBasicsCodelab/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBasicsCodelab/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBasicsCodelab/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBasicsCodelab/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBasicsCodelab/app/src/main/java/com/example/mybasicscodelab/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/MyBasicsCodelab/app/src/main/java/com/example/mybasicscodelab/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBasicsCodelab/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBasicsCodelab/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,5 +51,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
